@@ -13,14 +13,9 @@ export default function Home({ greeting }) {
 				<h1 className={styles.title}>Homepage</h1>
 				<h1>{greeting.hello}</h1>
 				<p className={styles.text}>
-					Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit autem ad
-					neque sapiente explicabo adipisci nemo, facere veritatis perferendis
-					deserunt?
-				</p>
-				<p className={styles.text}>
-					Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit autem ad
-					neque sapiente explicabo adipisci nemo, facere veritatis perferendis
-					deserunt?
+					Alfin Ipsum, ipsum dolor sit amet consectetur adipisicing elit. Sit
+					autem ad neque sapiente explicabo adipisci nemo, facere veritatis
+					perferendis deserunt?
 				</p>
 				<Link href='/ninja'>
 					<a className={styles.btn}>See ninja listing</a>

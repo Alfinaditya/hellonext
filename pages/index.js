@@ -10,7 +10,7 @@ export default function Home({ greeting }) {
 				<meta name='keywords' content='Benimaru' />
 			</Head>
 			<div>
-				<h1 className={styles.title}>Homepage</h1>
+				<h1 className={styles.title}>Hello Homepage</h1>
 				<h1>{greeting.hello}</h1>
 				<p className={styles.text}>
 					Alfin Ipsum, ipsum dolor sit amet consectetur adipisicing elit. Sit
